@@ -16,7 +16,7 @@ $data= [
 'Asmuri Aas','Goril Aas','Wili Aas','Gery Aas',
 'Redi Aas','Fenjul','Sabar Ajah','Dewi Tati','Fenjul',
 'Hasan','Yuli Iyul','Yun Yuyun','Davis','Novita',
-'$ FARHAN Z $','Muhammad Nandars','Muh Nandar',
+'$ FARHAN Z $','Muhammad Nandars','Muh Nandar','Khusnan',
 'Dep Bell','Adis Ahmat','Wali Roy','Roy Purba',
 'Acik Mall','Salim Aas','Bela Aas','Andrie',
 'Andriean','Andriesun','Acik Mall','Salim Aas',
